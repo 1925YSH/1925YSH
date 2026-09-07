@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Yashraj Otwal
+# 👋 Hi, I'm Yash Otwal
 
 ### 💻 Software Development Engineer | Full Stack Developer | Problem Solver
 
@@ -26,7 +26,7 @@ Building scalable, practical and user-focused web applications 🚀
 
 I'm a **Software Development Engineer and Full Stack Developer** with a strong interest in building practical, scalable and maintainable web applications.
 
-I primarily work with the **Java + Spring Boot ecosystem** for backend development and also work with modern frontend technologies such as **React.js, Next.js, JavaScript and TypeScript**.
+I primarily work with the **Node.js and Express.js** for backend development and also work with modern frontend technologies such as **React.js, Next.js, JavaScript and TypeScript**.
 
 I enjoy designing REST APIs, working with databases, understanding backend architecture and solving real-world engineering problems.
 
@@ -34,15 +34,14 @@ Alongside software development, I actively practice **Data Structures & Algorith
 
 ### 🚀 What I Do
 
-- ☕ Build backend applications using **Java & Spring Boot**
+- ☕ Build backend applications using **Node and Express**
 - 🔌 Design and develop **RESTful APIs**
 - ⚛️ Build frontend applications using **React.js & Next.js**
 - 🟨 Work with **JavaScript & TypeScript**
 - 🗄️ Work with **MySQL, MongoDB & PostgreSQL**
 - 🧠 Practice **Data Structures & Algorithms**
-- 🏗️ Learn **System Design & scalable architecture**
-- 🔐 Explore **Spring Security**
-- 🐳 Learn and use **Docker & cloud deployment**
+- 🏗️ Learning **System Design & scalable architecture**
+- 🐳 Learning and use **Docker & cloud deployment**
 - 🤖 Use AI-assisted development tools to improve productivity and learning
 
 ---
@@ -75,7 +74,7 @@ Alongside software development, I actively practice **Data Structures & Algorith
 </p>
 
 **Technologies:**  
-`Java` `Spring Boot` `Spring Security` `Node.js` `Express.js` `REST APIs`
+`Java`   `Node.js` `Express.js` `REST APIs`
 
 ---
 
@@ -97,7 +96,7 @@ Alongside software development, I actively practice **Data Structures & Algorith
 </p>
 
 **Technologies:**  
-`Docker` `AWS` `Azure` `Cloud Deployment`
+`Docker` `AWS` `Vercel` `Render`
 
 ---
 
@@ -108,7 +107,7 @@ Alongside software development, I actively practice **Data Structures & Algorith
 </p>
 
 **Tools:**  
-`Git` `GitHub` `VS Code` `IntelliJ IDEA` `Postman` `Linux`
+`Git` `GitHub` `VS Code` `IntelliJ IDEA` `Postman` 
 
 ---
 
@@ -148,10 +147,9 @@ development productivity.
 ## 🚀 Building
 
 - Full Stack Web Applications
-- RESTful APIs with Spring Boot
+- RESTful APIs 
 - Backend-focused applications
 - Database-driven applications
-- Project Management Systems
 - Scalable web applications
 - Clean and maintainable code
 
@@ -161,8 +159,6 @@ development productivity.
 
 ## 📚 Learning
 
-- Advanced Spring Boot
-- Spring Security
 - Microservices Architecture
 - System Design Fundamentals
 - Database Design
@@ -191,12 +187,6 @@ to improve my problem-solving ability and prepare for technical interviews.
 - Linked List
 - Binary Search
 - Sorting & Searching
-- Trees & Binary Trees
-- Graphs
-- Recursion & Backtracking
-- Greedy Algorithms
-- Dynamic Programming
-- Bit Manipulation
 
 ### 🧩 My Problem-Solving Approach
 
@@ -235,7 +225,7 @@ with backend APIs, databases and real-world application logic.
 
 Technologies
 
-Java Spring Boot React Next.js Node.js MongoDB SQL
+Java React Next.js Node.js MongoDB SQL
 
 🏗️ Software Development Philosophy
 
@@ -269,7 +259,7 @@ React & Modern JavaScript
         ↓
 Backend Development
         ↓
-Spring Boot & REST APIs
+     REST APIs
         ↓
 Databases & API Integration
         ↓
@@ -280,7 +270,6 @@ Scalable Full Stack Applications
 Continuous Learning 🚀
 🎯 Current Goals
 💻 Become a stronger Full Stack / Backend Developer
-☕ Deepen my Java & Spring Boot expertise
 🏗️ Build production-oriented applications
 🧠 Improve DSA and problem-solving skills
 🌐 Strengthen frontend development skills
@@ -289,10 +278,7 @@ Continuous Learning 🚀
 🐳 Improve Docker and deployment skills
 🗄️ Strengthen database design and SQL
 🚀 Follow better software engineering practices
-📚 Currently Learning
-Advanced Java
-Spring Boot
-Spring Security
+📚 Currently Lerning
 REST API Design
 Microservices
 System Design
