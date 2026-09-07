@@ -11,11 +11,11 @@ Building scalable, practical and user-focused web applications 🚀
     <img src="https://img.shields.io/badge/GitHub-1925YSH-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/yash-otwal-55137a258/">
-    <img src="https://img.shields.io/badge/LinkedIn-Yashraj%20Otwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Yash%20Otwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/1925YSH/">
+  <!-- <a href="https://leetcode.com/1925YSH/">
     <img src="https://img.shields.io/badge/LeetCode-1925YSH-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 </div>
