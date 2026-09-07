@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Yash Otwal
 
-### 💻 Software Development Engineer | Full Stack Developer | Problem Solver
+### 💻 Software Development Engineer @ Qualimatrix Technologies | Full Stack Developer
 
 Building scalable, practical and user-focused web applications 🚀
 
@@ -13,9 +13,12 @@ Building scalable, practical and user-focused web applications 🚀
   <a href="https://www.linkedin.com/in/yash-otwal-55137a258/">
     <img src="https://img.shields.io/badge/LinkedIn-Yash%20Otwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!-- <a href="https://leetcode.com/1925YSH/">
+  <a href="https://leetcode.com/1925YSH/">
     <img src="https://img.shields.io/badge/LeetCode-1925YSH-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a> -->
+  </a>
+  <a href="https://portfolio-frontend-ashy-eight.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
 </div>
@@ -24,147 +27,82 @@ Building scalable, practical and user-focused web applications 🚀
 
 ## 👨‍💻 About Me
 
-I'm a **Software Development Engineer and Full Stack Developer** with a strong interest in building practical, scalable and maintainable web applications.
+I'm a **Software Development Engineer** at **Qualimatrix Technologies Pvt Ltd** (since June 2025), working across three enterprise client applications — **Skill Access, Acropolis, and Gulf Healthcare**.
 
-I primarily work with the **Node.js and Express.js** for backend development and also work with modern frontend technologies such as **React.js, Next.js, JavaScript and TypeScript**.
+I build with the **React.js / Next.js** ecosystem on the frontend and **Node.js / Express.js** on the backend, integrating REST APIs with **MySQL and MongoDB**. I'm client-facing — collaborating with designers, backend devs and QA on API requirements, client onboarding, CI/CD deployments and pre-release debugging.
 
-I enjoy designing REST APIs, working with databases, understanding backend architecture and solving real-world engineering problems.
-
-Alongside software development, I actively practice **Data Structures & Algorithms and LeetCode problems** to strengthen my problem-solving skills and prepare for technical interviews.
+I hold a **B.Tech in Computer Science Engineering** from IPS Academy, Indore (CGPA 8.40/10), and I actively practice **DSA on LeetCode** to sharpen my problem-solving.
 
 ### 🚀 What I Do
 
-- ☕ Build backend applications using **Node and Express**
-- 🔌 Design and develop **RESTful APIs**
-- ⚛️ Build frontend applications using **React.js & Next.js**
-- 🟨 Work with **JavaScript & TypeScript**
-- 🗄️ Work with **MySQL, MongoDB & PostgreSQL**
-- 🧠 Practice **Data Structures & Algorithms**
-- 🏗️ Learning **System Design & scalable architecture**
-- 🐳 Learning and use **Docker & cloud deployment**
-- 🤖 Use AI-assisted development tools to improve productivity and learning
+- ⚛️ Build production features with **React.js & Next.js**
+- 🟢 Build backend services with **Node.js & Express.js**
+- 🔌 Design and integrate **RESTful APIs**
+- 🗄️ Work with **MongoDB & MySQL**
+- ⚡ Built a **BullMQ-based async workflow** for scalable assessment generation
+- 🧠 Practice **Data Structures & Algorithms** (100+ problems solved)
+- 🐳 Learning **Docker, CI/CD & cloud deployment**
+- ☕ Picking up **Java & Spring Boot** for backend depth
 
 ---
 
-# 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
-## 💻 Programming Languages
-
+### 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,cs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
 </p>
 
----
+`JavaScript` `TypeScript` `React.js` `Next.js` `Redux Toolkit` `Tailwind CSS` `HTML5` `CSS3`
 
-## 🎨 Frontend Development
-
+### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,java" />
 </p>
 
-**Technologies:**  
-`HTML` `CSS` `JavaScript` `TypeScript` `React.js` `Next.js`
+`Node.js` `Express.js` `REST APIs` `Microservices` `Java (learning)`
 
----
-
-## ⚙️ Backend Development
-
+### 🗄️ Databases
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-**Technologies:**  
-`Java`   `Node.js` `Express.js` `REST APIs`
+`MongoDB` `MySQL` `SQL`
 
----
-
-## 🗄️ Databases
-
+### 🔧 Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker" />
 </p>
 
-**Technologies:**  
-`MySQL` `PostgreSQL` `MongoDB`
+`Git` `GitHub` `VS Code` `Postman` `Vercel` `Render` `Docker (learning)` `CI/CD`
 
----
-
-## ☁️ Cloud & Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker" />
-</p>
-
-**Technologies:**  
-`Docker` `AWS` `Vercel` `Render`
-
----
-
-## 🔧 Tools & IDEs
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,postman" />
-</p>
-
-**Tools:**  
-`Git` `GitHub` `VS Code` `IntelliJ IDEA` `Postman` 
-
----
-
-## 🤖 AI-Assisted Development
-
-I use modern AI tools as **development assistants** for learning, debugging,
-exploring solutions, writing tests, understanding complex concepts and improving
-development productivity.
-
-<p>
-<img src="https://img.shields.io/badge/Claude%20AI-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Antigravity-4B32C3?style=for-the-badge" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
-### How I use AI in development
-
-- 🔍 Debugging and understanding errors
-- 🧪 Creating and thinking about edge cases
-- 💡 Exploring alternative implementation approaches
-- 📚 Learning unfamiliar technologies
-- 📝 Improving documentation
-- 🔎 Reviewing and understanding code
-- ⚡ Improving development productivity
+### 🤖 AI-Assisted Development
+I use AI tools like **Claude** and **GitHub Copilot** as development assistants — for debugging, learning new tech, writing tests, exploring implementation approaches and improving code quality.
 
 > **My approach:** Understand → Validate → Implement → Test → Improve
 
 ---
 
-# ⚡ What I'm Currently Focused On
+## ⚡ Currently Focused On
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 🚀 Building
-
-- Full Stack Web Applications
-- RESTful APIs 
-- Backend-focused applications
-- Database-driven applications
-- Scalable web applications
-- Clean and maintainable code
+**🚀 Building**
+- Full-stack web applications
+- REST APIs with Node.js/Express
+- Database-driven features
+- A production-grade personal project (deploying on a VPS to sharpen DevOps skills)
 
 </td>
-
 <td width="50%" valign="top">
 
-## 📚 Learning
-
-- Microservices Architecture
-- System Design Fundamentals
-- Database Design
-- Docker & Cloud Deployment
-- Backend Architecture
-- Scalable System Design
+**📚 Learning**
+- Java & Spring Boot
+- Docker & CI/CD pipelines
+- System design fundamentals
+- Cloud deployment (AWS/Azure)
 
 </td>
 </tr>
@@ -172,152 +110,71 @@ development productivity.
 
 ---
 
-# 🧠 Data Structures & Algorithms
+## 💼 Experience
 
-I actively practice **Data Structures & Algorithms** and solve coding problems
-to improve my problem-solving ability and prepare for technical interviews.
+**Software Development Engineer** — Qualimatrix Technologies Pvt. Ltd. *(Jun 2025 – Present)*
+- Built React.js/Next.js frontend features and support for Skill Access, Acropolis, and Gulf Healthcare
+- Implemented assessment logic (negative marking, automated scoring, section-wise evaluation) and Excel/Word/PDF question upload pipelines
+- Delivered full-stack features for the Acropolis Group website across five institutes
 
-### 📌 Topics I Practice
+**Full Stack Developer Intern** — Ypsilon IT Solutions Pvt. Ltd., Indore *(Apr 2023 – Aug 2023)*
+- Built features using React.js, Node.js, Express.js with REST API integration into MongoDB
 
-- Arrays & Strings
-- Hashing
-- Two Pointers
-- Sliding Window
-- Stack & Queue
-- Linked List
-- Binary Search
-- Sorting & Searching
+---
 
-### 🧩 My Problem-Solving Approach
+## 🧠 Featured Projects
+
+**🍔 [Food Delivery Platform](https://github.com/1925YSH/FOOD-App)** — MERN stack + Stripe
+Auth, cart, order placement, and Stripe payments. Frontend on Vercel, backend on Render.
+🔗 [Live Demo](https://food-app-blush-eight.vercel.app)
+
+**✨ [Quick.ai](https://github.com/1925YSH/QuickAi)** — AI content generation SaaS
+React.js, Next.js, Node.js, Express.js, MongoDB — JWT auth with integrated Generative AI REST APIs.
+
+---
+
+## 🧩 Data Structures & Algorithms
+
+Actively solving problems on **[LeetCode](https://leetcode.com/1925YSH/)** — **100+ problems solved** — covering arrays, hashing, two pointers, sliding window, trees, graphs, recursion, DP and more.
 
 ```text
-Understand
-    ↓
-Analyze
-    ↓
-Brute Force
-    ↓
-Optimize
-    ↓
-Implement
-    ↓
-Test Edge Cases
-    ↓
-Improve
+Understand → Analyze → Brute Force → Optimize → Implement → Test Edge Cases → Improve
+```
 
-<p align="center"> <a href="https://leetcode.com/1925YSH/"> <img src="https://img.shields.io/badge/LeetCode-1925YSH-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> </p>
+---
 
-DSA & Problem Solving
+## 📊 GitHub Statistics
 
-A growing collection of Data Structures & Algorithms problems,
-coding solutions and interview-oriented practice.
-
-Tech Stack
-
-Java Data Structures Algorithms Dynamic Programming
-
-👉 Explore DSA Repository
-
-🌐 Full Stack Web Applications
-
-I build full-stack applications by combining modern frontend technologies
-with backend APIs, databases and real-world application logic.
-
-Technologies
-
-Java React Next.js Node.js MongoDB SQL
-
-🏗️ Software Development Philosophy
-
-I believe that good software is not only about making the code work.
-
-I focus on writing code that is:
-
-Readable
-   ↓
-Maintainable
-   ↓
-Testable
-   ↓
-Scalable
-   ↓
-Reliable
-
-I prefer understanding why a solution works instead of simply memorizing
-the implementation.
-
-📈 My Developer Journey
-Programming Fundamentals
-        ↓
-Java & Object-Oriented Programming
-        ↓
-Data Structures & Algorithms
-        ↓
-Web Development
-        ↓
-React & Modern JavaScript
-        ↓
-Backend Development
-        ↓
-     REST APIs
-        ↓
-Databases & API Integration
-        ↓
-System Design Fundamentals
-        ↓
-Scalable Full Stack Applications
-        ↓
-Continuous Learning 🚀
-🎯 Current Goals
-💻 Become a stronger Full Stack / Backend Developer
-🏗️ Build production-oriented applications
-🧠 Improve DSA and problem-solving skills
-🌐 Strengthen frontend development skills
-🏛️ Learn scalable system architecture
-🔐 Improve backend security knowledge
-🐳 Improve Docker and deployment skills
-🗄️ Strengthen database design and SQL
-🚀 Follow better software engineering practices
-📚 Currently Lerning
-REST API Design
-Microservices
-System Design
-Database Design
-Docker
-Cloud Deployment
-Advanced DSA
-Backend Architecture
-💡 Beyond Coding
-
-I enjoy:
-
-🧠 Solving challenging programming problems
-🔍 Understanding how software systems work
-🛠️ Building projects to learn new technologies
-📖 Learning through documentation and implementation
-🚀 Improving my development workflow
-🤖 Exploring AI-assisted software development
-💻 Continuously improving my coding and engineering skills
-📊 GitHub Statistics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=1925YSH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1925YSH&layout=compact&theme=tokyonight&hide_border=true" /> <br/> <img src="https://streak-stats.demolab.com?user=1925YSH&theme=tokyonight&hide_border=true" /> </div>
-🏆 GitHub Achievements
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=1925YSH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" /> </div>
-📌 My Coding Mindset
-Learn → Understand → Practice → Build → Break → Debug → Improve
-
-Every project and coding problem is an opportunity to understand something
-better and become a stronger software engineer.
-
-🤝 Let's Connect
-
-I'm always open to connecting with developers, engineers and people interested
-in software development, backend engineering, full-stack development and
-problem solving.
-
-<div align="center"> <a href="https://github.com/1925YSH"> <img src="https://img.shields.io/badge/GitHub-1925YSH-181717?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/yash-otwal-55137a258/"> <img src="https://img.shields.io/badge/LinkedIn-Yashraj%20Otwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://leetcode.com/1925YSH/"> <img src="https://img.shields.io/badge/LeetCode-1925YSH-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> </div>
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=1925YSH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1925YSH&layout=compact&theme=tokyonight&hide_border=true" />
+<br/>
+<img src="https://streak-stats.demolab.com?user=1925YSH&theme=tokyonight&hide_border=true" />
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=1925YSH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to connecting with developers and engineers interested in full-stack development, backend engineering and problem solving.
+
+<div align="center">
+<a href="https://github.com/1925YSH"><img src="https://img.shields.io/badge/GitHub-1925YSH-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/yash-otwal-55137a258/"><img src="https://img.shields.io/badge/LinkedIn-Yash%20Otwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/1925YSH/"><img src="https://img.shields.io/badge/LeetCode-1925YSH-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+</div>
+
+<div align="center">
+
 💻 Code. Learn. Build. Improve. Repeat. 🚀
 
 ⭐ If you find something useful in my repositories, feel free to star them!
 
-</div> ```
+</div>
