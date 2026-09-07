@@ -81,10 +81,10 @@ I hold a **B.Tech in Computer Science Engineering** from IPS Academy, Indore (CG
 
 ### 🔧 Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,antigravity,postman,vercel,docker" />
 </p>
 
-`Git` `GitHub` `VS Code` `Postman` `Vercel` `Render` `Docker (learning)` `CI/CD`
+`Git` `GitHub` `VS Code` `Antigravity` `Postman` `Vercel` `Render` `Docker (learning)` `CI/CD`
 
 ### 🤖 AI-Assisted Development
 I use AI tools like **Claude** and **GitHub Copilot** as development assistants — for debugging, learning new tech, writing tests, exploring implementation approaches and improving code quality.
