@@ -171,11 +171,11 @@ Understand → Analyze → Brute Force → Optimize → Implement → Test Edge 
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=1925YSH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</div>
+<div align="center"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" alt="Pull Shark"/> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO"/> <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" alt="Quickdraw"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:06B6D4&height=3&section=header" width="100%"/>
+Pull Shark • YOLO • Quickdraw
+
+</div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:06B6D4&height=3&section=header" width="100%"/>
 
 
 ## 🤝 Let's Connect
