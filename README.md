@@ -52,7 +52,6 @@ I hold a **B.Tech in Computer Science Engineering** from IPS Academy, Indore (CG
 - ⚡ Built a **BullMQ-based async workflow** for scalable assessment generation
 - 🧠 Practice **Data Structures & Algorithms** (100+ problems solved)
 - 🐳 Learning **Docker, CI/CD & cloud deployment**
-- ☕ Picking up **Java & Spring Boot** for backend depth
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:06B6D4&height=3&section=header" width="100%"/>
 
