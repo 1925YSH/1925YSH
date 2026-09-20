@@ -143,6 +143,7 @@ Auth, cart, order placement, and Stripe payments. Frontend on Vercel, backend on
 
 **✨ [Quick.ai](https://github.com/1925YSH/QuickAi)** — AI content generation SaaS
 React.js, Next.js, Node.js, Express.js, MongoDB — JWT auth with integrated Generative AI REST APIs.
+ [Live Demo](https://quick-ai-client-gold.vercel.app/)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:06B6D4&height=3&section=header" width="100%"/>
 
