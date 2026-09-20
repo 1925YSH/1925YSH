@@ -124,7 +124,7 @@ I use AI tools like **Claude** and **GitHub Copilot** as development assistants 
 
 ## 💼 Experience
 
-**Software Development Engineer** — Qualimatrix Technologies Pvt. Ltd. *(Jun 2025 – Present)*
+**Software Development Engineer** — Qualimatrix Technologies Pvt. Ltd. *(Feb 2026 – Present)*
 - Built React.js/Next.js frontend features and support for Skill Access, Acropolis, and Gulf Healthcare
 - Implemented assessment logic (negative marking, automated scoring, section-wise evaluation) and Excel/Word/PDF question upload pipelines
 - Delivered full-stack features for the Acropolis Group website across five institutes
